@@ -8,8 +8,8 @@ import streamlit as st
 #New import from langchain, which replaces the above
 from langchain_openai import ChatOpenAI
 
-import os
-os.environ["OPENAI_API_KEY"] = "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"
+#import os
+#os.environ["OPENAI_API_KEY"] = "sk-AxSfgHoRM4fghdfghdfghdfgfMWSig4fZY9AT"
 
 
 from langchain.schema import (
